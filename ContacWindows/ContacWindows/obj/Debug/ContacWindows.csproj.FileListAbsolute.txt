@@ -1,0 +1,14 @@
+D:\ContacWindows\ContacWindows\bin\Debug\ContacWindows.exe.config
+D:\ContacWindows\ContacWindows\bin\Debug\ContacWindows.exe
+D:\ContacWindows\ContacWindows\bin\Debug\ContacWindows.pdb
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.csproj.AssemblyReference.cache
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.Form1.resources
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.Form2.resources
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.Properties.Resources.resources
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.csproj.GenerateResource.cache
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.csproj.CoreCompileInputs.cache
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.exe
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.pdb
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.InsertarContacto.resources
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.Form3.resources
+D:\ContacWindows\ContacWindows\obj\Debug\ContacWindows.EliminarContacto.resources
